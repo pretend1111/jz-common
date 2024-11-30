@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/pretend/code/opencv/build",
+  "command": "/usr/bin/g++  -isystem /usr/include/opencv4 -g -o CMakeFiles/show.dir/show.cpp.o -c /home/pretend/code/opencv/show.cpp",
+  "file": "/home/pretend/code/opencv/show.cpp"
+}
+]

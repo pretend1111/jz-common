@@ -1,0 +1,3 @@
+/home/pretend/code/opencv/build/CMakeFiles/show.dir
+/home/pretend/code/opencv/build/CMakeFiles/edit_cache.dir
+/home/pretend/code/opencv/build/CMakeFiles/rebuild_cache.dir
