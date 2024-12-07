@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/pretend/code/opencv/cameracalibration/build",
+  "command": "/usr/bin/g++  -isystem /usr/include/opencv4 -g -o CMakeFiles/4_2.dir/4_2.cpp.o -c /home/pretend/code/opencv/cameracalibration/4_2.cpp",
+  "file": "/home/pretend/code/opencv/cameracalibration/4_2.cpp"
+}
+]
