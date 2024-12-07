@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/pretend/code/opencv/pnp/build",
+  "command": "/usr/bin/g++  -isystem /usr/include/opencv4 -g -o CMakeFiles/pnp.dir/pnp.cpp.o -c /home/pretend/code/opencv/pnp/pnp.cpp",
+  "file": "/home/pretend/code/opencv/pnp/pnp.cpp"
+}
+]
