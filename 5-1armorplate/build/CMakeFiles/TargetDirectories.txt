@@ -1,0 +1,5 @@
+/home/pretend/code/opencv/armorplate/build/CMakeFiles/shibie.dir
+/home/pretend/code/opencv/armorplate/build/CMakeFiles/ceshi.dir
+/home/pretend/code/opencv/armorplate/build/CMakeFiles/number.dir
+/home/pretend/code/opencv/armorplate/build/CMakeFiles/edit_cache.dir
+/home/pretend/code/opencv/armorplate/build/CMakeFiles/rebuild_cache.dir

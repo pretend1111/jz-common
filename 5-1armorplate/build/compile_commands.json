@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/pretend/code/opencv/armorplate/build",
+  "command": "/usr/bin/g++  -isystem /usr/include/opencv4 -g -o CMakeFiles/shibie.dir/shibie.cpp.o -c /home/pretend/code/opencv/armorplate/shibie.cpp",
+  "file": "/home/pretend/code/opencv/armorplate/shibie.cpp"
+},
+{
+  "directory": "/home/pretend/code/opencv/armorplate/build",
+  "command": "/usr/bin/g++  -isystem /usr/include/opencv4 -g -o CMakeFiles/ceshi.dir/ceshi.cpp.o -c /home/pretend/code/opencv/armorplate/ceshi.cpp",
+  "file": "/home/pretend/code/opencv/armorplate/ceshi.cpp"
+},
+{
+  "directory": "/home/pretend/code/opencv/armorplate/build",
+  "command": "/usr/bin/g++  -isystem /usr/include/opencv4 -g -o CMakeFiles/number.dir/number.cpp.o -c /home/pretend/code/opencv/armorplate/number.cpp",
+  "file": "/home/pretend/code/opencv/armorplate/number.cpp"
+}
+]
